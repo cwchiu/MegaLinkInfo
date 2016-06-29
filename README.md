@@ -3,11 +3,11 @@
 
 # 開發環境
 1. Visual Studio 2013 (VB.NET)
-2. IronPython 2.7.5
+2. IronPython 2.7.5 or pythonnet
 
 # 測試
-
-ipy.exe test.py
+* IronPython : ipy.exe test.py
+* pythonnet : python test.py
 
 ```
 Filename: Android_Application_Development_For_Dummies.pdf

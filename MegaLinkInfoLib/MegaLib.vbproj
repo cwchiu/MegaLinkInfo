@@ -105,6 +105,7 @@
     <Compile Include="Clases\UltimaConfiguracionUsada.vb" />
     <Compile Include="Clases\Updater.vb" />
     <Compile Include="Clases\URLExtractor.vb" />
+    <Compile Include="Clases\URLProcessor.vb" />
     <Compile Include="Clases\Utils.vb" />
     <Compile Include="Mega.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
